@@ -6,6 +6,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 **Anonka** is a feature-rich, privacy-focused Telegram bot designed for anonymous messaging. It generates a unique personal link for every registered user, allowing anyone to send anonymous messages, media, voice notes, stickers, and documents. It also supports bidirectional anonymous replies, interactive blacklist management, and customizable user settings.
+The last commit was 19.05.2025
 
 ---
 

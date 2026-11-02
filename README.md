@@ -1,6 +1,7 @@
 # Telegram Collectible Card Game Bot
 
 A multi-chat Telegram bot written in Python that allows group communities to create, manage, and collect custom digital trading cards with rarity tiers, points, and cooldown mechanics.
+The last commit was 19.05.2025
 
 ---
 

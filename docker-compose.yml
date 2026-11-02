@@ -1,0 +1,12 @@
+services:
+  bot:
+    build: .
+    volumes:
+      - .:/app:z
+    container_name: anonka
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+      - BOT_TESTING=0
+      - BOT_API_KEY=token_1
+      - TEST_BOT_API_KEY=token_2

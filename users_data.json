@@ -1,0 +1,8 @@
+{
+    "userid": {
+        "admin_in_chats": [
+            "chatid_1",
+            "chatid_2"
+        ]
+    }
+}
